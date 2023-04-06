@@ -19,6 +19,13 @@ html, body{
     margin-left: -75px;
 }
 
+.cartas .AD{
+    position: relative;
+    width: 250px;
+    left: 150px;
+    margin-left: -75px;
+}
+
 #computadora-cartas, #jugador-cartas{
     height: 240px;
 } 
